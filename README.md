@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="https://github.com/KarolinaGroszewska/KarolinaGroszewska/blob/master/Webp.net-gifmaker.gif">
 </p>
 
 - Currently working on: SAC Sign-In Screenshots, and this page 
