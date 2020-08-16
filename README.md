@@ -1,5 +1,13 @@
-###
-
+<p align="center">
+  <img src="">
+</p>
+– Currently working on: SAC Sign-In Screenshots, and this page.
+– Currently learning: C++ in school, Firebase security for projects, and looking for something for fun
+– Looking to collaborate on: Any project, big or small, that I can learn a lot from
+– Looking for help with: Finding internships as a college freshman
+– Ask me about: My time living in Singapore!
+– Reach me at: karolina.groszewska@gmail.com
+– Pronouns: She/Her
 <!--
 **KarolinaGroszewska/KarolinaGroszewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
