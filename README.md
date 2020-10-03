@@ -2,7 +2,7 @@
   <img src="https://github.com/KarolinaGroszewska/KarolinaGroszewska/blob/master/Webp.net-gifmaker.gif">
 </p>
 
-- Currently working on: SAC Sign-In Screenshots, and this page 
+- Currently working on: Vandyhacks, not failing college, and this page 
 
 - Currently learning: C++ in school, Firebase security for projects, and looking for something for fun
 
