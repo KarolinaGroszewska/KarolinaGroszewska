@@ -2,13 +2,11 @@
   <img src="https://github.com/KarolinaGroszewska/KarolinaGroszewska/blob/master/Webp.net-gifmaker.gif">
 </p>
 
-- Currently working on: Vandyhacks, not failing college, and this page 
+- Currently working on: Discrete Math :D 
 
-- Currently learning: C++ in school, Firebase security for projects, and looking for something for fun
+- Currently learning: Microsoft Access Databases
 
 - Looking to collaborate on: Any project, big or small, that I can learn a lot from
-
-- Looking for help with: Finding internships as a college freshman, resume building
 
 - Ask me about: My time living in Singapore!
 
