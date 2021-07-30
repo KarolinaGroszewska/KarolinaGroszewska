@@ -1,6 +1,5 @@
 - Reach me at: karolina.groszewska@gmail.com
 - Pronouns: She/Her
-- Full-time stress, part-time mess
 <!--
 **KarolinaGroszewska/KarolinaGroszewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
