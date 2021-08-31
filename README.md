@@ -1,5 +1,9 @@
 - Reach me at: karolina.groszewska@gmail.com
 - Pronouns: She/Her
+- My name is Kari and I am a sophomore at Vanderbilt University in Nashville, TN
+- I am currently working on the NSF Open Data Project as a research assistant – mostly doing full-stack development on our application.
+- Outside of that, I am an undergraduate Teaching Assistant, a student, and a hackathon organizer. I am heavily involved with our on-campus Women in Computing Organization.
+- I'm also learning Unity to work on expanding my skillsets and learning something new. 
 <!--
 **KarolinaGroszewska/KarolinaGroszewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
