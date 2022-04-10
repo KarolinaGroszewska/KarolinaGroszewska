@@ -3,7 +3,7 @@
 - My name is Kari and I am a sophomore at Vanderbilt University in Nashville, TN
 - I am currently working on the NSF Open Data Project as a research assistant – mostly doing full-stack development on our application.
 - Outside of that, I am an undergraduate Teaching Assistant, the President at VandyHacks, and the Co-VP at Women in Computing. My passions include increasing the diversity of individuals in technology through making tech ventures easily accessible.
-- I'm also learning Unity to work on expanding my skillsets and learning something new as a part of a student organization I am involved in
+- I'm also learning Unity to work on expanding my skillsets and learning something new as a part of a student organization I am involved in called Vanderbilt : Programmers of Games
 <!--
 **KarolinaGroszewska/KarolinaGroszewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
