@@ -1,9 +1,9 @@
 - Reach me at: karolina.groszewska@gmail.com
 - Pronouns: She/Her
-- My name is Kari and I am a sophomore at Vanderbilt University in Nashville, TN
-- I am currently working on the NSF Open Data Project as a research assistant – mostly doing full-stack development on our application.
-- Outside of that, I am an undergraduate Teaching Assistant, the President at VandyHacks, and the Co-VP at Women in Computing. My passions include increasing the diversity of individuals in technology through making tech ventures easily accessible.
-- I'm also learning Unity to work on expanding my skillsets and learning something new as a part of a student organization I am involved in called Vanderbilt : Programmers of Games
+- Hi! My name is Kari and I am a sophomore at Vanderbilt University in Nashville, TN, studying Computer Science and Economics. 
+- I am currently working on the NSF Open Data Project as a research assistant – doing full-stack development on our application written in Ionic React!
+- Outside of that, I am an undergraduate Teaching Assistant, President at VandyHacks, and Co-VP at Women in Computing. My passions include increasing the diversity of individuals in technology through making tech ventures easily accessible and engaging, and expanding opportunities for individuals of all skill levels looking to get involved in tech. 
+- Recent personal projects include Baby Bear Summer Camp: a strategy resource builder made as a part of Vanderbilt: Programmers of Games and Soba: a tool meant to provide insights into available housing options at Vanderbilt University and second-place winner at UAInnovate!
 <!--
 **KarolinaGroszewska/KarolinaGroszewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
