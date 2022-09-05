@@ -1,7 +1,7 @@
 - Reach me at: karolina.groszewska@gmail.com
 - Pronouns: She/Her
 - Hi! My name is Kari and I am a junior at Vanderbilt University in Nashville, TN, studying Computer Science and Economics. 
-- I am an undergraduate Teaching Assistant, President of VandyHacks, and Co-VP at Women in Computing. My passions include increasing the diversity of individuals in technology through making tech ventures easily accessible and engaging, and expanding opportunities for individuals of all skill levels looking to get involved in tech. Every product I work on aims to improve ease of life!
+- I am an undergraduate Teaching Assistant, President of VandyHacks, and Co-VP at Women in Computing. My passions include increasing the diversity of individuals in technology through making tech ventures easily accessible and engaging, expanding opportunities for individuals of all skill levels looking to get involved in tech, and creating cool web and mobile applications. Every product I work on aims to improve ease of life!
 - I spent Summer of 2022 as an application development intern at Vanguard, where I worked on full-stack applications in Java and Angular for Personal Advisor Services. Feel free to reach out if you'd like to hear more!
 - Current or recent personal projects include:
     - Baby Bear Summer Camp: a strategy resource builder made as a part of Vanderbilt: Programmers of Games 
