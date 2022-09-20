@@ -5,6 +5,7 @@
 - I spent Summer of 2022 as an application development intern at Vanguard, where I worked on full-stack applications in Java and Angular for Personal Advisor Services. Feel free to reach out if you'd like to hear more!
 - Current or recent personal projects include:
     - Atendi: an automated attendance tracker for iOS and Android 
+    - JREAMy: a football-based career and goal planner for pre-teens made for the JP Morgan Code for Good hackathon in NYC
     - Baby Bear Summer Camp: a strategy resource builder made as a part of Vanderbilt: Programmers of Games 
     - Soba: a tool meant to provide insights into available housing options at Vanderbilt University and second-place winner at UAInnovate!
     - SpotifyMatched: Vanguard 2022 Intern Project in React and Flask matching users based on music tastes
