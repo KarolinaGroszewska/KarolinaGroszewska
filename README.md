@@ -4,6 +4,7 @@
 - I am the former President of VandyHacks, and current Grace Hopper Coordinator of the Vanderbilt Women in Computing chapter. My passions include increasing the diversity of individuals in technology through making tech ventures easily accessible and engaging, expanding opportunities for individuals of all skill levels looking to get involved in tech, and creating cool web and mobile applications. Every product I work on aims to improve ease of life!
 - I'll be joining Apple as a Software Automation Engineering Intern this May, and I am excited to get more exposure to Watch development. Throughout the year, I work part-time as a Coach for MLH – I hope to see you at an event I coach! 
 - Current and recent personal projects include:
+    - 100 Days of SwiftUI: Following the Hacking with Swift tutorial to learn something new 
     - Fingertip: A notification-friendly habit tracker for iOS and watchOS
     - Atendi: an automated attendance tracker for iOS and Android 
     - JREAMy: a football-based career and goal planner for pre-teens made for the JPMorgan Chase Code for Good hackathon in NYC 
