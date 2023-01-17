@@ -1,5 +1,3 @@
-- Reach me at: karolina.groszewska@gmail.com
-- Pronouns: She/Her
 - Hi! My name is Kari and I am a junior at Vanderbilt University in Nashville, TN, studying Computer Science and Economics. 
 - I am the former President of VandyHacks, and current Grace Hopper Coordinator of the Vanderbilt Women in Computing chapter. My passions include increasing the diversity of individuals in technology through making tech ventures easily accessible and engaging, expanding opportunities for individuals of all skill levels looking to get involved in tech, and creating cool web and mobile applications. Every product I work on aims to improve ease of life!
 - I'll be joining Apple as a Software Automation Engineering Intern this May, and I am excited to get more exposure to Watch development. Throughout the year, I work part-time as a Coach for MLH – I hope to see you at an event I coach! 
