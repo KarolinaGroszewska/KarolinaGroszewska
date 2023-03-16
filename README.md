@@ -1,5 +1,4 @@
 ### Hi y'all, I'm Kari! 👋
----
 
 - 🏫 I'm currently in my third-year studying Computer Science, Economics, and Spanish at **Vanderbilt University**
 - 👩‍🏫 I use SwiftUI, Firebase, XCTest, Python, and C in my current coursework.
@@ -15,4 +14,3 @@
 - 🌐 Updating my personal website <a href="https://karigroszewska.tech">karigroszewska.tech</a>
 - 📱 Working on the VandyHacks social media – check out our <a href="https://linktr.ee/vandyhacks">LinkTree</a> for all the links!
 - 🚀 Expanding my own social media presence – tune in soon for more links! 
----
