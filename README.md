@@ -1,24 +1,18 @@
-- Hi! My name is Kari and I am a junior at Vanderbilt University in Nashville, TN, studying Computer Science and Economics. 
-- I am the former President of VandyHacks, and current Grace Hopper Coordinator of the Vanderbilt Women in Computing chapter. My passions include increasing the diversity of individuals in technology through making tech ventures easily accessible and engaging, expanding opportunities for individuals of all skill levels looking to get involved in tech, and creating cool web and mobile applications. Every product I work on aims to improve ease of life!
-- I'll be joining Apple as a Software Automation Engineering Intern this May, and I am excited to get more exposure to Watch development. Throughout the year, I work part-time as a Coach for MLH – I hope to see you at an event soon! 
-- Current and recent personal projects include:
-    - Studio V: In partnership with a womens' health and wellness community at Vanderbilt University – custom event management tool for iOS devices!
-    - Fingertip: A notification-friendly habit tracker for iOS and watchOS, passion project
-    - JREAMy: a football-based career and goal planner for pre-teens made for the JPMorgan Chase Code for Good hackathon in NYC 
-    - Soba: a tool meant to provide insights into available housing options at Vanderbilt University and second-place winner at UAInnovate!
-    - SpotifyMatched: Vanguard 2022 Intern Project in React and Flask matching users based on music tastes
-- Outside of the tech world, I enjoy playing board games, trying new foods, knitting (hopefully wearable) items, and taking my bike out on rides around Nashville.
-<!--
-**KarolinaGroszewska/KarolinaGroszewska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi y'all, I'm Kari! 👋
+---
 
-Here are some ideas to get you started:
+- 🏫 I'm currently in my third-year studying Computer Science, Economics, and Spanish at **Vanderbilt University**
+- 👩‍🏫 I use SwiftUI, Firebase, XCTest, Python, and C in my current coursework.
+- 💻 I love working with SwiftUI, React, React Native, Figma, and MongoDB in projects – both personal and for others!
+- 📋 On campus, I am involved with: **VandyHacks** (Former President, currently focused on Marketing and Mentorship), **Vanderbilt: Women in Computing** (Scholarship Lead for Grace Hopper 2023) and **Studio V** (Treasurer – leading Finances for Women)
+- 🛫 Off campus, I am a Coach and Streamer for **Major League Hacking** – supporting hackathons worldwide, teaching concepts I am passionate about, and creating an inviting technologist community. 
+- 🌱 I'm currently learning more about **Entrepreneurship and the Start-Up Space, Cross-Platform Development,** and **Accessibility in Tech**
+- 💬 Let's chat about my professional interests in **Mobile Development**, **Hackathons**, **Diversity & Inclusion**, **Mentorship**
+- 💖 We can also have a convo about my hobbies and interests in knitting, throwing pottery, rock climbing (very poorly), or cooking!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/karolina-groszewska/">LinkedIn</a>
+- 🌐 Updating my personal website <a href="https://karigroszewska.tech">karigroszewska.tech</a>
+- 📱 Working on the VandyHacks social media – check out our <a href="https://linktr.ee/vandyhacks">LinkTree</a> for all the links!
+- 🚀 Expanding my own social media presence – tune in soon for more links! 
+---
