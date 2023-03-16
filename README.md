@@ -8,9 +8,3 @@
 - 🌱 I'm currently learning more about **Entrepreneurship and the Start-Up Space, Cross-Platform Development,** and **Accessibility in Tech**
 - 💬 Let's chat about my professional interests in **Mobile Development**, **Hackathons**, **Diversity & Inclusion**, **Mentorship**
 - 💖 We can also have a convo about my hobbies and interests in knitting, throwing pottery, rock climbing (very poorly), or cooking!
-
-#### Find me working on:
-- 💼 <a href="https://www.linkedin.com/in/karolina-groszewska/">LinkedIn</a>
-- 🌐 <a href="https://karigroszewska.tech">karigroszewska.tech</a>
-- 📱 Working on the VandyHacks social media – check out our <a href="https://linktr.ee/vandyhacks">LinkTree</a> for all the links!
-- 🚀 Expanding my own social media presence – tune in soon for more links! 
