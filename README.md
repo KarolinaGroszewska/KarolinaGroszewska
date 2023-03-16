@@ -1,6 +1,6 @@
 ### Hi y'all, I'm Kari! 👋
 
-- 🏫 I'm currently in my third-year studying Computer Science, Economics, and Spanish at **Vanderbilt University**
+- 🏫 I'm currently in my third year studying Computer Science, Economics, and Spanish at **Vanderbilt University**
 - 👩‍🏫 I use SwiftUI, Firebase, XCTest, Python, and C in my current coursework.
 - 💻 I love working with SwiftUI, React, React Native, Figma, and MongoDB in projects – both personal and for others!
 - 📋 On campus, I am involved with: **VandyHacks** (Former President, currently focused on Marketing and Mentorship), **Vanderbilt: Women in Computing** (Scholarship Lead for Grace Hopper 2023) and **Studio V** (Treasurer – leading Finances for Women)
