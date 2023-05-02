@@ -11,13 +11,14 @@
 - 🛫 I am a Coach and Streamer for Major League Hacking (MLH) – supporting hackathons worldwide, teaching concepts I am passionate about, and creating an inviting technologist community. 
 
 ### Favorite Tools
+<p>
 <img src="https://img.shields.io/badge/-Swift-orange?style=flat&logo=swift&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Flask-blue?style=flat&logo=flask&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-
+</p>
 ### Reach out if
 - 💬 You have professional interests in mobile development, hackathons, diversity & inclusion, or mentorship!
 
