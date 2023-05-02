@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 
-- 💬 Let's chat about my professional interests in mobile development, hackathons, diversity & inclusion, or mentorship!
+### Reach out if
+- 💬 You have professional interests in mobile development, hackathons, diversity & inclusion, or mentorship!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KarolinaGroszewska&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
