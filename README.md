@@ -19,7 +19,8 @@
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 </p>
-### Reach out if
+
+<b>Reach out if</b>
 - 💬 You have professional interests in mobile development, hackathons, diversity & inclusion, or mentorship!
 
 
