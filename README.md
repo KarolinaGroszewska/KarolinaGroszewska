@@ -1,5 +1,7 @@
 ### Hi y'all, I'm Kari! 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=KarolinaGroszewska&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ### Academics
 - 🏫 I'll be entering my last year studying Computer Science, Economics, and Spanish at **Vanderbilt University**
 - 📋 On campus, I am involved with: VandyHacks (Former President, currently focused on Marketing and Mentorship), Vanderbilt: Women in Computing (Scholarship Lead for Grace Hopper 2023) and Studio V (Treasurer – leading finances for Womens' workout group)
@@ -19,4 +21,4 @@
 ### Reach out if
 - 💬 You have professional interests in mobile development, hackathons, diversity & inclusion, or mentorship!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KarolinaGroszewska&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
