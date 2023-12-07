@@ -4,7 +4,7 @@
 
 ### Academics
 - 🏫 I'm currently in my final year studying Computer Science, Economics, and Spanish at **Vanderbilt University**
-- 📋 On campus, I am involved with: VandyHacks (Former President, currently focused on Marketing), Vanderbilt: Women in Computing (Scholarship Lead for Grace Hopper 2023) and Studio V (Treasurer – leading finances for Womens' workout group)
+- 📋 On campus, I am involved with: VandyHacks (Former President, currently focused on Marketing), Vanderbilt: Women in Computing (Scholarship Lead for Grace Hopper 2023) and Studio V (Treasurer – leading finances for womens' workout group)
 
 ### Professional 
 - 🍎 I recently completed an internship at Apple in Watch Software Automation.
