@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinagroszewska&layout=donut&theme=github_dark)](https://github.com/karolinagroszewska)
 
 ### Github Achievements
-[![Trophies](https://github-profile-trophy.vercel.app/?username=karolinagroszewska&theme=darkhub&rank=S,AAA,AA)](https://github.com/karolinagroszewska)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=karolinagroszewska&theme=darkhub&rank=S,AAA,AA,A)](https://github.com/karolinagroszewska)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=600&size=24&pause=1000&color=59A6FF&multiline=true&width=435&height=35&lines=Professional)](https://git.io/typing-svg)
 ### Work Experience
 - I am currently working as a High School Computer Science Teacher in Nashville, TN, where I teach classes in VR Game Development and Web Development with HTML, CSS, and JS.  
