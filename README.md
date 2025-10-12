@@ -4,10 +4,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinagroszewska&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=600&size=24&pause=1000&color=59A6FF&multiline=true&width=435&lines=Professional)](https://git.io/typing-svg)
+
 - I am currently working as a High School Computer Science Teacher in Nashville, TN. 
 - I am also a Coach and Streamer for Major League Hacking (MLH) – supporting hackathons worldwide, teaching concepts I am passionate about, and creating an inviting tech community.
 - I graduated from Vanderbilt University with my B.S in Computer Science, Economics, and Spanish. 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=600&size=24&pause=1000&color=59A6FF&multiline=true&width=435&lines=Reach+out+if...)](https://git.io/typing-svg)- You have professional interests in mobile development, teaching, hackathons, diversity & inclusion, or educational technology!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=600&size=24&pause=1000&color=59A6FF&multiline=true&width=435&lines=Reach+out+if...)](https://git.io/typing-svg)
+- You have professional interests in mobile development, teaching, hackathons, diversity & inclusion, or educational technology!
 
 
