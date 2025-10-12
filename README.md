@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=600&size=24&pause=1000&multiline=true&width=435&height=100&lines=Hi+y'all%2C+I'm+Kari!;Welcome+to+my+Github.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=600&size=24&pause=1000&color=59A6FF&multiline=true&width=435&height=100&lines=Hi+y'all%2C+I'm+Kari!;Welcome+to+my+Github.)](https://git.io/typing-svg)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=karolinagroszewska&theme=github_dark&show_icons=true&show=prs_merged)](https://github.com/karolinagroszewska)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karolinagroszewska&layout=donut&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
