@@ -1,6 +1,6 @@
 ### Hi y'all, I'm Kari!! 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolinagroszewska)](https://github.com/karolinagroszewska)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolinagroszewska&theme=github_dark&show_icons=true)](https://github.com/karolinagroszewska)
 
 ### Professional
 - 🍎 I am currently working as a High School Computer Science Teacher in Nashville, TN. 
