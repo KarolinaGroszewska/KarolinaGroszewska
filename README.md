@@ -1,6 +1,6 @@
 ### Hi y'all, I'm Kari!! 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KarolinaGroszewska&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karolinagroszewska)](https://github.com/karolinagroszewska)
 
 ### Professional
 - 🍎 I am currently working as a High School Computer Science Teacher in Nashville, TN. 
