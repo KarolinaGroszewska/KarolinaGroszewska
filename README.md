@@ -1,9 +1,9 @@
 <!-- Template:
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks) -->
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Heyo, I'm Kari. I'm a Teacher at MNPS. I work on teaching Computer Science to high school students.
 
 - 📍 Location: [Your City, State]
 - 🎓 Education: [Your University or School]
@@ -18,7 +18,7 @@
 - 🧰 Languages: [Language 1], [Language 2], [Language 3]
 - 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
 - ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
